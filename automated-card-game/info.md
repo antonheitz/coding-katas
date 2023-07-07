@@ -6,7 +6,7 @@ Program an automated card game between two bots.
 
 ## Story
 
-
+Bots wanna have fun! Two bots want to play a game, but do not have the algorythms to do so. You got to help them!
 
 ## Rules
 
